@@ -1,0 +1,14 @@
+{
+   "tasks": [
+      {
+         "sno": 1,
+         "task": "Go for Jogging",
+         "status": "Done"
+      },
+      {
+         "sno": 2,
+         "task": "deploy applicaton",
+         "status": "Done"
+      }
+   ]
+}
